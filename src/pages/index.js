@@ -11,7 +11,7 @@ const IndexPage = () => {
         src="https://pbs.twimg.com/media/E1oMV3QVgAIr1NT?format=jpg&name=large"
       />
     </Layout>
-  )
-}
+  );
+};
 
 export default IndexPage;

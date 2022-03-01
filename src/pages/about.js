@@ -6,7 +6,7 @@ const AboutPage = () => {
     <Layout pageTitle="About Page">
       <p>I am making this site using Gatsby tutorial.</p>
     </Layout>
-  )
-}
+  );
+};
 
 export default AboutPage;
